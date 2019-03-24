@@ -4,7 +4,7 @@ Description: This is the final project for UCI Math 10 course aimed to create re
 
 ## Compile/Run the code
 
-The codes are written on jupyter notebooks using python. One can review it by opening """ using jupyter notebook. 
+The codes are written on jupyter notebooks using python. One can review it by opening "logistic_regression_malcolmy.ipynb" to review Logistic Regression method, "sgd-&-knn-hf.ipynb" for SGD and kNN method, and "Final Project CNN-Chad.ipynb" for CNN method using jupyter notebook. Our solution for y_pred is in the format of csv and can be review by opening "solutions-chadbreece.csv".  
 
 ## Contributors
 This project is written by Chad Robert Breece, Malcolm Yang, and Haley Feng with the help of the starter code provided by the professor and data courtesy of Tarin Clanuwat. 
